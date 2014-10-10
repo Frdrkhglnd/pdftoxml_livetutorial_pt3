@@ -1,0 +1,1 @@
+Tutorial scraper for the ebook "Scraping for Journalists":http://leanpub.com/scrapingforjournalists demonstrating how to scrape a PDF and use XPath to identify parts of that.
